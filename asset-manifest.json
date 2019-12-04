@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Redux_Uber-eats/static/css/main.6ffa5617.chunk.css",
+    "main.js": "/React-Redux_Uber-eats/static/js/main.0089ce30.chunk.js",
+    "main.js.map": "/React-Redux_Uber-eats/static/js/main.0089ce30.chunk.js.map",
+    "runtime~main.js": "/React-Redux_Uber-eats/static/js/runtime~main.a30bf431.js",
+    "runtime~main.js.map": "/React-Redux_Uber-eats/static/js/runtime~main.a30bf431.js.map",
+    "static/js/2.f6be08f8.chunk.js": "/React-Redux_Uber-eats/static/js/2.f6be08f8.chunk.js",
+    "static/js/2.f6be08f8.chunk.js.map": "/React-Redux_Uber-eats/static/js/2.f6be08f8.chunk.js.map",
+    "index.html": "/React-Redux_Uber-eats/index.html",
+    "precache-manifest.e68249333ea2ee9b530f33b6f496dee1.js": "/React-Redux_Uber-eats/precache-manifest.e68249333ea2ee9b530f33b6f496dee1.js",
+    "service-worker.js": "/React-Redux_Uber-eats/service-worker.js",
+    "static/css/main.6ffa5617.chunk.css.map": "/React-Redux_Uber-eats/static/css/main.6ffa5617.chunk.css.map"
+  }
+}
